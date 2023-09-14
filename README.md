@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hey there! I'm Rachel :)
 
+I am a full stack developer, and a Le Wagon London alumnus 🚗
+
+I speak Ruby on Rails, Javascript, HTML & CSS 👩🏻‍💻
+
+I design with Figma, InDesign & Canva 👩🏻‍🎨
+
+Reach out to me on <a href="https://www.linkedin.com/in/rachel-tenenbaum-b27b78132/">LinkedIn</a>!
 <!--
 **racheltenenbaum/racheltenenbaum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
