@@ -2,7 +2,7 @@
 
 I am a full stack developer, and a Le Wagon London alumnus 🚗
 
-I speak Ruby on Rails, Javascript, SQL, HTML & CSS 👩🏻‍💻
+I speak PHP, Ruby on Rails, Javascript, SQL, HTML & CSS 👩🏻‍💻
 
 I design with Figma, InDesign & Canva 👩🏻‍🎨
 
